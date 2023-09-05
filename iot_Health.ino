@@ -13,7 +13,6 @@ const int PulseWire = A0;
 PulseSensorPlayground pulseSensor;
 
 
-
 // set the LCD number of columns and rows
 int lcdColumns = 16;
 int lcdRows = 2;
